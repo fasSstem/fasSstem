@@ -1,8 +1,8 @@
-### Hi there I'm Artem 👋
+### Hi there, I'm Artem 👋
 
 # Introduction 
 
-### I'm a student at MIPT Dpt. of Radio Engineering and Computer Technology. <br>I enjoy physics, hardware and software engineering!
+### I'm a student at MIPT Dpt. of Control and Applied Mathematics. <br>I enjoy mathematics, programming and machine learning!
 
 # :mailbox: Contact information:
 
