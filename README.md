@@ -11,4 +11,4 @@
 * Telegram: [@fastekk](https://t.me/fastekk)
 
 # :bookmark_tabs: CV
-[![CV](https://github.com/fasSstem/fasSstem/blob/main/Fedorov_cv-1.png)](https://github.com/fasSstem/fasSstem/blob/main/Fedorov_cv.pdf)
+[![CV](https://github.com/fasSstem/fasSstem/blob/main/Fedorov_CV_pic.png)](https://github.com/fasSstem/fasSstem/blob/main/Fedorov_CV.pdf)
